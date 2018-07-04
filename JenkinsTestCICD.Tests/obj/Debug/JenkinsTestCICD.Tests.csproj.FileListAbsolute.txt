@@ -1,0 +1,16 @@
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\JenkinsTestCICD.Tests.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\JenkinsTestCICD.Tests.pdb
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\JenkinsTestCICD.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\JenkinsTestCICD.pdb
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\JenkinsTestCICD.dll.config
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\obj\Debug\JenkinsTestCICD.Tests.csprojResolveAssemblyReference.cache
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\obj\Debug\JenkinsTestCICD.Tests.csproj.CoreCompileInputs.cache
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\obj\Debug\JenkinsTestCICD.Tests.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD.Tests\obj\Debug\JenkinsTestCICD.Tests.pdb

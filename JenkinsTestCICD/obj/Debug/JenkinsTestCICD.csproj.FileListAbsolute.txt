@@ -1,0 +1,9 @@
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD\bin\JenkinsTestCICD.dll.config
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD\bin\JenkinsTestCICD.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD\bin\JenkinsTestCICD.pdb
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD\obj\Debug\JenkinsTestCICD.csprojResolveAssemblyReference.cache
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD\obj\Debug\JenkinsTestCICD.csproj.CoreCompileInputs.cache
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD\obj\Debug\JenkinsTestCICD.dll
+C:\Users\venkatesh.j\source\repos\JenkinsTestCICD\JenkinsTestCICD\obj\Debug\JenkinsTestCICD.pdb
